@@ -1,5 +1,5 @@
 def say_hello():
-   print("Hello from a new branch")
+   print("")
 
 def say_goodbuy():
    print("Goodbuy guys")
