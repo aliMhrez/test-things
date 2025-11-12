@@ -9,3 +9,6 @@ def say_goodafternoon(name):
    
 def buy():
    print("hello world")
+
+def say():
+   print("good afternoon")
