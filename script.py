@@ -6,3 +6,6 @@ def say_goodbuy():
 
 def say_goodafternoon(name):
    print("good afternoon")
+
+def say():
+   print("good afternoon")
