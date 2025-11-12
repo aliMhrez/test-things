@@ -4,7 +4,7 @@ def say_hello():
 def say_goodbuy():
    print("Goodbuy guys")
    
-def say_goodafternoon():
+def say_goodafternoon(name):
    print("good afternoon")
    
 def buy():
