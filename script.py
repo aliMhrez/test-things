@@ -8,7 +8,7 @@ def say_goodafternoon(name):
    print("good afternoon")
    
 def buy():
-   print("hello world")
+   print("")
 
 def say():
    print("good afternoon")
